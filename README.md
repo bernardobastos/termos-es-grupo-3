@@ -18,10 +18,12 @@ Por exemplo,
 
 ## Software 
 
-+ definição do autor 1  [^1] entre aspas
-+ definição do autor 2 entre aspas [^2]
++ definição do autor 1  entre aspas [1]
++ definição do autor 2 entre aspas [2]
 + ...
 
-[^1]: Roger Pressman, titulo,  ... etc. completar ...
+## Engenharia de Software 
+...
 
-[^2]: Ian ...
+1. Roger Pressman, titulo,  ... etc. completar ...
+2. Ian ..., 
