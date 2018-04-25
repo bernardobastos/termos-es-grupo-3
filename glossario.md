@@ -5,7 +5,7 @@ Glossário de termos para Engenharia de Software.
 Criar um glossario de **10 termos** relacionados a **Engenharia de Software** utilizando autores distintos e comparando as definições apresentadas.
 
 ## 1. Software
-- Definição 1 [?]
+- Computer software is the product that software professionals build and then support over the long term. It encompasses programs that execute within a computer of any size and architecture, content that is presented as the computer programs execute, and descriptive information in both hard copy and virtual forms that encompass virtually any electronic media. [Pressman, Roger S. Software Engineering: A Practitioner's Approach]
 - Definição 2 [?]
 - Definição 3 [?]
 
