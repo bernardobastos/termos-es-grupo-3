@@ -15,7 +15,7 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 - Definição 3 [?]
 
 ## 3. Processo de software
-- Definição 1 [?]
+- "A software process is a sequence of activities that leads to the production of a software product." [Sommerville, Ian. Software Engineering. Wokingham]
 - Definição 2 [?]
 - Definição 3 [?]
  
