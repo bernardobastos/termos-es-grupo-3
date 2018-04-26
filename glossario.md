@@ -11,11 +11,11 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 
 ## 2. Engenharia de software
 - *"Software engineering is an engineering discipline that is concerned with all aspects of software production."*[Sommerville, Ian. **Software Engineering**.]
-- *"Software engineering encompasses a process, a collection of methods (practice) and an array of tools that allow professionals to build high-quality computer software."* [Pressman, Roger S. Software Engineering: A Practitioner's Approach.]
+- *"Software engineering encompasses a process, a collection of methods (practice) and an array of tools that allow professionals to build high-quality computer software."* [Pressman, Roger S. **Software Engineering: A Practitioner's Approach**.]
 - *Software engineering is the field of computer science that deals with the building of software systems that are so large or so complex that they are built by a team or teams of engineers. Usually, these systems exist in multiple versions and are in service for many years.[...] We may define software engineering as the application of engineering to software.*  [Ghezzi, Carlo. **Fundamentals of software engineering**.]
 
 ## 3. Processo de software
-- *"A software process is a sequence of activities that leads to the production of a software product."* [Sommerville, Ian. Software Engineering.]
+- *"A software process is a sequence of activities that leads to the production of a software product."* [Sommerville, Ian. **Software Engineering**.]
 - *"Software process models often represent a networked sequence of activities, objects, transformations, and events that embody strategies for accomplishing software evolution."* [Scacchi, Walt. **Process Models in Software Engineering**.]
 - Definição 3 [?]
  
