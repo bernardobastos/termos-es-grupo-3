@@ -13,6 +13,7 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 &nbsp;
 - *"Computer programs and associated documentation. Software products may be developed for a particular customer or may be developed for a general market."* [Sommerville, Ian. **Software Engineering**.]
 
+&nbsp;
 ## 2. Engenharia de software
 - *"Software engineering is an engineering discipline that is concerned with all aspects of software production."*[Sommerville, Ian. **Software Engineering**.]
 
@@ -22,6 +23,7 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 &nbsp;
 - *Software engineering is the field of computer science that deals with the building of software systems that are so large or so complex that they are built by a team or teams of engineers. Usually, these systems exist in multiple versions and are in service for many years.[...] We may define software engineering as the application of engineering to software.*  [Ghezzi, Carlo. **Fundamentals of software engineering**.]
 
+&nbsp;
 ## 3. Processo de software
 - *"A software process is a sequence of activities that leads to the production of a software product."* [Sommerville, Ian. Software Engineering.]
 
@@ -30,7 +32,8 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 
 &nbsp;
 - Definição 3 [?]
- 
+
+&nbsp;
 ## 4. Modelo de processo de Software
 - *"A software process model is a simplified representation of a software process. Each process model represents a process from a particular perspective, and thus provides only partial information about that process."* [Sommerville, Ian. **Software Engineering**.]
 
@@ -40,6 +43,7 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 &nbsp;
 - Definição 3 [?]
 
+&nbsp;
 ## 5. Qualidade de software
 - Definição 1 [?]
 
@@ -49,6 +53,7 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 &nbsp;
 - Definição 3 [?]
 
+&nbsp;
 ## 6. Modelo em Cascata
 - *"The waterfall model This takes the fundamental process activities of specification, development, validation, and evolution and represents them as separate process phases such as requirements specification, software design, implementation, testing, and so on."* [Sommerville, Ian. **Software Engineering**.]
 
