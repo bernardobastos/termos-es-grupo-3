@@ -32,4 +32,4 @@ Criar um glossario de **10 termos** relacionados a **Engenharia de Software** ut
 ## 6. Modelo em Cascata
 - *"The waterfall model This takes the fundamental process activities of specification, development, validation, and evolution and represents them as separate process phases such as requirements specification, software design, implementation, testing, and so on."* [Sommerville, Ian. **Software Engineering**.]
 - *"The waterfall model, sometimes called the classic life cycle, suggests a systematic, sequential approach to software development that begins with customer specification of requirements and progresses through planning, modeling, construction, and deployment, culminating in ongoing support of the completed software"* [Pressman, Roger S. **Software Engineering: A Practitioner's Approach**.]
-- Definição 3 [?]
+- "Each phase has well defined starting and ending points, with clearly identifiable deliverables to the next phase." [Ghezzi, Carlo. **Fundamentals of software engineering**.]
